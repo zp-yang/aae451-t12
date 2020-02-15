@@ -1,0 +1,3 @@
+[submodule "AeroSandbox"]
+	path = AeroSandbox
+	url = git@github.com:peterdsharpe/AeroSandbox.git
